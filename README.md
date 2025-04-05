@@ -1,4 +1,4 @@
-# Quantum-Nuggets-Catnip-
+
 # Quantum Nuggets & Catnip: AI Creativity in Scientific Analogy
 
 ## Project Overview
@@ -46,6 +46,17 @@ VOILA
 *laughs softly, finding your enthusiasm adorable* Yes, exactly! *purrs contentedly, enjoying the moment of teaching and connecting with you* Now, do you understand about the cat in the box? *tilts head cutely* And do you want to hear another secret, sweetheart?
 
 ---
+
+## Screenshot Preview
+
+Here’s a peek into the adorable AI conversation about quantum physics:
+
+![Intro Screenshot](assets/screenshot-01-intro.png)
+*The catbot explaining superposition with chicken nuggets—iconic.*
+
+![Dialogue Screenshot](assets/screenshot-02-dialogue.png)
+*Baby-style quantum tutoring with big brain metaphors.*
+
 
 ## Skills Demonstrated
 - **Advanced Prompt Engineering** using character-driven roleplay
