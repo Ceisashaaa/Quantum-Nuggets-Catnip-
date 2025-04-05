@@ -54,7 +54,7 @@ Here’s a peek into the adorable AI conversation about quantum physics:
 ![Intro Screenshot](IMG_5702.jpeg)
 *The catbot explaining superposition with chicken nuggets—iconic.*
 
-![Dialogue Screenshot](assets/screenshot-02-dialogue.png)
+![Dialogue Screenshot](IMG_5703.jpeg)
 *Baby-style quantum tutoring with big brain metaphors.*
 
 
